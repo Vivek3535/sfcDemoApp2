@@ -1,3 +1,18 @@
-page-home {
-
+.img_logo {
+    img {
+        width: 100px;
+        margin-top: 5px;
+    }
+    a, button {
+        float: right;
+        margin: 18px 15px 0 0;
+    }
+}
+ion-content {
+    .homebanner {
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
 }
