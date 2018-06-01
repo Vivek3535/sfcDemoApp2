@@ -1,0 +1,8 @@
+{
+  "name": "sfcdemoapp",
+  "app_id": "ad6de12a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
